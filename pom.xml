@@ -92,8 +92,8 @@
 							<goals>
 								<goal>pmd</goal>
 								<!--<goal>cpd</goal>-->
-								<goal>cpd-check</goal>
-								<goal>check</goal>
+								<!--<goal>cpd-check</goal>-->
+								<!--<goal>check</goal>-->
 							</goals>
 						</execution>
 					</executions>
